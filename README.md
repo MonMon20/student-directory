@@ -1,8 +1,8 @@
 # student-directory
 
-The student directory allows you to manage a list
+The student directory program allows you to manage the list of students enrolled at Villains Academy.
 
-#How to use
+# How to use
 
 ```shell
 ruby directory.rb
